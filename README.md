@@ -2,8 +2,6 @@
 
 This repo is the first repo we created in the [Patika+ Frontend Bootcamp](https://www.patika.dev/patikaplus/patika-front-end-bootcamp) Front-End Education. It contains one README file and one index.html file.
 
-![github](figures/github.png)
-
 ## Installation
 
 First, clone the project.
