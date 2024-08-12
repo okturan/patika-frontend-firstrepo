@@ -1,4 +1,4 @@
-# Kodluyoruz First Repo
+# Patika+ Front End First Repo
 
 This repo is the first repo we created in the [Patika+ Frontend Bootcamp](https://www.patika.dev/patikaplus/patika-front-end-bootcamp) Front-End Education. It contains one README file and one index.html file.
 
