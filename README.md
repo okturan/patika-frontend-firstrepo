@@ -18,8 +18,4 @@ open index.html
 
 ## Evidence boundary
 
-The screenshot documents the GitHub repository page created during the exercise; it is not a product UI screenshot. The repository intentionally has no hosted demo, CI workflow, package, or release history. Later frontend repositories provide stronger implementation, visual, accessibility, testing, and deployment evidence.
-
-## License
-
-[MIT](LICENSE)
+The screenshot documents the GitHub repository page created during the exercise; it is not a product UI screenshot. The repository intentionally has no hosted demo, CI workflow, package, release history, or standalone license. Later frontend repositories provide stronger implementation, visual, accessibility, testing, and deployment evidence.
