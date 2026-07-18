@@ -1,28 +1,25 @@
-# Patika+ Front End First Repo
+# Patika+ Frontend First Repository
 
-This repo is the first repo we created in the [Patika+ Frontend Bootcamp](https://www.patika.dev/patikaplus/patika-front-end-bootcamp) Front-End Education. It contains one README file and one index.html file.
+> **Status:** historical first-repository exercise from the Patika+ Frontend Bootcamp. It is retained as a visible learning milestone, not presented as a maintained website.
 
-![repository-screenshot](repository-screenshot.jpeg)
+This exercise introduced repository creation, cloning, a minimal HTML document, Markdown documentation, and adding an image asset to a README.
 
-## Installation
+![Screenshot of the repository page created for the exercise](repository-screenshot.jpeg)
 
-First, clone the project.
+## View locally
+
+No dependencies or build step are required:
 
 ```bash
 git clone https://github.com/okturan/patika-frontend-firstrepo.git
-```
-
-## Usage
-
-After cloning the project, open it in Visual Studio Code.
-
-```bash
 cd patika-frontend-firstrepo
-code .
+open index.html
 ```
 
-## Contributing
-Pull requests are accepted. For major changes, please open an issue first to discuss what you would like to change.
+## Evidence boundary
+
+The screenshot documents the GitHub repository page created during the exercise; it is not a product UI screenshot. The repository intentionally has no hosted demo, CI workflow, package, or release history. Later frontend repositories provide stronger implementation, visual, accessibility, testing, and deployment evidence.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+[MIT](LICENSE)
